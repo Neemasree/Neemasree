@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Neemasree</h1>
+Hi 👋 I'm Neemasree
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Developer;AI+Powered+Web+Application+Builder;DSA+Enthusiast;Always+Learning+New+Technologies&center=true&width=550&height=45">
-</p>
-
+Computer Science Engineering student passionate about Full Stack Development and building scalable web applications.
+I enjoy working on AI-powered systems, backend architecture, and modern web technologies.
 ---
 
 ## 👩‍💻 About Me
