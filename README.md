@@ -74,43 +74,6 @@ Used for **automating build, testing, and deployment pipelines** to streamline d
 
 ---
 
-# 🚀 Featured Projects
-
-### 🛒 FreshMart – Full Stack Grocery E-Commerce Platform
-
-Tech Stack: **React.js • Node.js • Express.js • MongoDB • JWT**
-
-* Built a scalable **MERN stack e-commerce platform**
-* Implemented **JWT-based authentication**
-* Designed **RESTful APIs for product and order management**
-* Developed **dynamic cart state management**
-* Created a **responsive UI for seamless shopping experience**
-
----
-
-### 💰 Emotional Expense Tracker
-
-Tech Stack: **Django • Python • MongoDB • Matplotlib • HTML • CSS • JavaScript**
-
-* Developed an **AI-powered expense tracking system**
-* Implemented **emotion detection from spending notes**
-* Built **habit trigger analysis**
-* Added **financial insights through data visualizations**
-* Designed features to promote **mindful spending behavior**
-
----
-
-### 🔐 RFID Based Security System
-
-Tech Stack: **Spring Boot • MySQL • Thymeleaf**
-
-* Developed a **web-based RFID authentication system**
-* Implemented **role-based access control**
-* Built **RFID-user mapping and access logging**
-* Designed **admin dashboard for centralized system management**
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -133,7 +96,6 @@ These stats highlight my **coding activity, repository contributions, and langua
 
 </p>
 
-Maintaining consistent coding practice and contributing regularly to projects.
 
 ---
 
