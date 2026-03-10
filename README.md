@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Neemasree</h1>
 
 <p align="center">
@@ -26,7 +25,7 @@
 ## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js"/>
 </p>
 
 ---
@@ -90,4 +89,3 @@
 ---
 
 ⭐ Built with passion by **Neemasree**
-
