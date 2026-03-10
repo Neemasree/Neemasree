@@ -107,4 +107,3 @@ This graph shows my **development activity and project contributions over time.*
 
 ---
 
-⭐ Always exploring new technologies, building meaningful projects, and improving as a developer.
