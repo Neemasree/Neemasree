@@ -1,16 +1,93 @@
 ## Hi there 👋
 
-<!--
-**Neemasree/Neemasree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Neemasree</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=DSA+Enthusiast;Full+Stack+Developer;AI+Powered+Web+App+Builder;Problem+Solver&center=true&width=500&height=45">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+🎓 Computer Science Engineering Student
+💻 Passionate about **DSA and Full Stack Development**
+⚡ Love building **AI-powered web applications**
+🚀 Interested in **scalable backend systems**
+
+---
+
+## 🧠 Core Concepts
+
+`DSA` • `OOPS` • `DBMS` • `Computer Networks`
+
+---
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js"/>
+</p>
+
+---
+
+## 🌐 Technologies / Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,express,react,spring"/>
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,aws"/>
+</p>
+
+---
+
+## ⚙ DevOps / CI-CD
+
+`GitHub Actions`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Neemasree&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neemasree&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neemasree&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neemasree&theme=tokyo-night"/>
+
+---
+
+⭐ Built with passion by **Neemasree**
+
