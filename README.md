@@ -1,20 +1,20 @@
-Hi 👋 I'm Neemasree
+# Hi 👋 I'm Neemasree
 
-Computer Science Engineering student passionate about Full Stack Development and building scalable web applications.
-I enjoy working on AI-powered systems, backend architecture, and modern web technologies.
+Full Stack Developer passionate about building **scalable web applications and backend systems**.
+I enjoy solving real-world problems through **modern web technologies and intelligent applications**.
+
 ---
 
 ## 👩‍💻 About Me
 
-🎓 Computer Science Engineering Student with a strong interest in **software development and system design**
-
-💻 Passionate about building **scalable full-stack web applications**
-
-⚡ Enjoy developing **AI-powered web applications that solve real problems**
-
-🚀 Constantly learning and improving in **Data Structures, Backend Systems, and Modern Web Technologies**
+* 🎓 Computer Science Engineering student with a strong foundation in **software development**
+* 💻 Experienced in building **full-stack applications using modern frameworks**
+* ⚡ Interested in developing **AI-driven and data-powered web solutions**
+* 🚀 Focused on improving skills in **backend architecture, APIs, and system design**
+* 📚 Continuously learning and exploring **new technologies in web development**
 
 ---
+
 
 ## 🧠 Core Concepts
 
