@@ -76,28 +76,6 @@ These fundamentals help me design **efficient, scalable, and maintainable system
 ✔ Used for **automating build, testing, and deployment workflows**
 
 
-## 📊 GitHub Activity Graph Hack  
-A custom visualization tool to track development activity trends.
-
-**Tech Stack:**  
-JavaScript • Visualization Libraries
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neemasree&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Neemasree&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neemasree&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📊 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neemasree&theme=tokyo-night"/>
