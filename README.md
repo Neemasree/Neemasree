@@ -1,93 +1,116 @@
 # Hi 👋 I'm Neemasree
 
-Full Stack Developer passionate about building **scalable web applications and backend systems**.
-I enjoy solving real-world problems through **modern web technologies and intelligent applications**.
+💻 **Full Stack Developer | Problem Solver | CSE Student**
+
+I am passionate about building **scalable web applications and backend systems**, solving real-world problems, and continuously improving my **Data Structures and System Design skills**.
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-* 🎓 Computer Science Engineering student with a strong foundation in **software development**
-* 💻 Experienced in building **full-stack applications using modern frameworks**
-* ⚡ Interested in developing **AI-driven and data-powered web solutions**
-* 🚀 Focused on improving skills in **backend architecture, APIs, and system design**
-* 📚 Continuously learning and exploring **new technologies in web development**
-
----
-
-
-## 🧠 Core Concepts
-
-`Data Structures & Algorithms` • `Object Oriented Programming` • `Database Management Systems` • `Computer Networks`
-
-These concepts help me design **efficient, scalable, and maintainable applications.**
+🎓 Computer Science Engineering Student  
+💡 Strong interest in **Backend Development & Full Stack Systems**  
+⚡ Experienced in building **web applications and practical mini-projects**  
+📈 Active GitHub contributor (consistent commits across multiple years)  
+🚀 Currently improving **DSA, Backend APIs, and System Design**  
+📚 Always learning new technologies and building real-world projects  
 
 ---
 
-## 💻 Languages
+# 🧠 Core Concepts
+
+`Data Structures & Algorithms`  
+`Object-Oriented Programming`  
+`Database Management Systems`  
+`Computer Networks`  
+`Operating Systems (Basics)`
+
+These fundamentals help me design **efficient, scalable, and maintainable systems.**
+
+---
+
+# 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js"/>
 </p>
 
-I mainly use these languages for **problem solving, backend logic, and full-stack development.**
+✔ Used for **problem solving, backend logic, and application development**
 
 ---
 
-## 🌐 Technologies / Frameworks
+# 🌐 Technologies & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,nodejs,express,react,spring"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,spring"/>
 </p>
 
-These technologies allow me to build **modern full-stack applications with scalable architecture and responsive user interfaces.**
+✔ Used to build **responsive full-stack web applications**
 
 ---
 
-## 🗄 Databases
+# 🗄 Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-I work with both **NoSQL and relational databases** to design efficient data models and backend systems.
+✔ Experience designing **structured and scalable database systems**
 
 ---
 
-## 🛠 Tools & Platforms
+# 🛠 Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,aws"/>
 </p>
 
-These tools help me manage **version control, API testing, cloud deployment, and CI/CD workflows.**
+✔ Used for **version control, API testing, deployment, and cloud hosting**
 
 ---
 
-## ⚙ DevOps / CI-CD
+# ⚙ DevOps / CI-CD
 
 `GitHub Actions`
 
-Used for **automating build, testing, and deployment pipelines** to streamline development workflows.
+✔ Used for **automating build, testing, and deployment workflows**
+
+
+## 📊 GitHub Activity Graph Hack  
+A custom visualization tool to track development activity trends.
+
+**Tech Stack:**  
+JavaScript • Visualization Libraries
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 GitHub Stats
 
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neemasree&theme=tokyonight"/>
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Neemasree&show_icons=true&theme=tokyonight"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neemasree&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neemasree&theme=tokyo-night"/>
 
-This graph shows my **development activity and project contributions over time.**
+This graph represents my **coding activity and development consistency over time.**
 
 ---
 
+# 🎯 Current Focus
+
+🚀 Solving **Data Structures & Algorithms** problems daily  
+⚙ Building **backend APIs and full-stack applications**  
+📚 Learning **System Design fundamentals**  
+🌐 Improving **cloud deployment and DevOps workflows**
+
+⭐ *Always open to collaboration, learning opportunities, and building impactful software.*
