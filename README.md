@@ -72,20 +72,6 @@ Used for **automating build, testing, and deployment pipelines** to streamline d
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Neemasree&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neemasree&layout=compact&theme=tokyonight"/>
-
-</p>
-
-These stats highlight my **coding activity, repository contributions, and language usage across projects.**
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
