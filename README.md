@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=220&section=header&text=Neemasree&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20CSE%20Student&descAlignY=58&descSize=18" width="100%"/>
@@ -71,10 +72,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Neemasree&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=ec4899&text_color=c9d1d9&border_radius=15" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neemasree&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&border_radius=15" width="49%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Neemasree&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6" width="70%"/>
 
 <br/><br/>
 
