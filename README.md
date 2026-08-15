@@ -74,6 +74,10 @@
 
 <br/><br/>
 
+<img src="https://streak-stats.demolab.com?user=Neemasree&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6" width="70%"/>
+
+<br/><br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=Neemasree&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=7" width="98%"/>
 
 <br/><br/>
