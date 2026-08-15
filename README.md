@@ -65,21 +65,6 @@
 
 <br/>
 
-## 🚀 Featured Projects
-
-> Pin your best 3-4 repos on GitHub and they'll show here automatically once you set up your profile repo. Swap these placeholders for real ones:
-
-**[Project Name](https://github.com/Neemasree/repo-name)**
-One-line description of the problem it solves and the impact/result. `Node.js` `MongoDB` `React`
-
-**[Project Name](https://github.com/Neemasree/repo-name)**
-One-line description of the problem it solves and the impact/result. `Java` `Spring` `MySQL`
-
-**[Project Name](https://github.com/Neemasree/repo-name)**
-One-line description of the problem it solves and the impact/result. `Python` `DSA`
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -89,11 +74,11 @@ One-line description of the problem it solves and the impact/result. `Python` `D
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Neemasree&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6" width="70%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Neemasree&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=7" width="98%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Neemasree&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=7" width="98%"/>
+<img src="https://ghchart.rshah.org/8b5cf6/Neemasree" width="98%" alt="Neemasree's contribution graph"/>
 
 </div>
 
