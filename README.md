@@ -66,24 +66,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Neemasree&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=ec4899&text_color=c9d1d9&border_radius=15" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neemasree&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&border_radius=15" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Neemasree&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=7" width="98%"/>
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/8b5cf6/Neemasree" width="98%" alt="Neemasree's contribution graph"/>
-
-</div>
-
-<br/>
 
 ## 🎯 Currently Focused On
 
